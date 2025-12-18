@@ -27,7 +27,7 @@ A simple Flask-based authentication system featuring **user registration, login,
 ## Installation & Setup
 
 ###  Clone the Repository
-    https://github.com/aayushmapokhrel/flask-login.git
+    https://github.com/aayushmapokhrel/Flask-Authentication.git
     
     python -m venv venv
     venv\Scripts\activate      # Windows
