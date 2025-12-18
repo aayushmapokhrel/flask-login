@@ -17,11 +17,11 @@ A simple Flask-based authentication system featuring **user registration, login,
 
 
 ## Project Structure
-flask-login/
-├── app.py
-├── .env
-├── requirements.txt
-└── README.md
+    flask-login/
+    ├── app.py
+    ├── .env
+    ├── requirements.txt
+    └── README.md
 
 
 ## Installation & Setup
